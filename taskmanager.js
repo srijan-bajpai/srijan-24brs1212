@@ -1,5 +1,7 @@
-import { useState, useEffect } from "react";
+//dark mode, localstorage
 
+
+import { useState, useEffect } from "react";
 export default function App() {
   const [tasks, setTasks] = useState([]);
   const [input, setInput] = useState("");

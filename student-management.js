@@ -1,3 +1,5 @@
+//local-storage, dark mode
+
 import { useState, useEffect } from "react";
 
 export default function App() {
